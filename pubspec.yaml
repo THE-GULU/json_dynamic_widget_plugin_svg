@@ -23,7 +23,7 @@ dependencies:
   logging: '^1.2.0'
   meta: '^1.7.0'
   uuid: '^3.0.7'
-  websafe_svg: '^3.0.1+1'
+  websafe_svg: '^3.0.0+8'
 
 false_secrets: 
   - 'example/web/index.html'
